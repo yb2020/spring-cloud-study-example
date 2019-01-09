@@ -1,0 +1,12 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9001/eureka/
+      #defaultZone: http://localhost:9002/eureka/,http://localhost:9003/eureka/
