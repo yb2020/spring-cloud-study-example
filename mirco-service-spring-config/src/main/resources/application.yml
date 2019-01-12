@@ -1,0 +1,13 @@
+server.port: 7001
+
+spring:
+  application:
+    name: service-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/yb2020/spring-cloud-study-example.git
+          search-paths: mirco-service-config
+          username: yb2020
+          password: 
