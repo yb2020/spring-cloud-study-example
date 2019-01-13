@@ -1,0 +1,14 @@
+spring.application.name: turbine-hystrix-dashboard
+server.port: 6001
+
+turbine:
+  appConfig: service-provider,service-consumer
+  clusterNameExpression: new String("default")
+  instanceUrlSuffix: hystrix.stream
+  aggregator:
+    clusterConfig: default
+
+eureka:
+  client: 
+    serviceUrl:
+      defaultZone: http://localhost:9001/eureka/

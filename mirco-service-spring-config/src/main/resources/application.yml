@@ -10,4 +10,9 @@ spring:
           uri: https://github.com/yb2020/spring-cloud-study-example.git
           search-paths: mirco-service-config
           username: yb2020
-          password: 
+          password: 357753Qq
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9001/eureka/

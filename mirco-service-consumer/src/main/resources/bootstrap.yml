@@ -1,7 +1,21 @@
 spring:
   cloud:
     config:
-      uri: http://localhost:7001/
+      discovery:
+        service-id: service-config-server
+        enabled: true
+      #uri: http://localhost:7001/
       profile: test
       name: consumer
       label: master
+      
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9001/eureka/
