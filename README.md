@@ -30,12 +30,6 @@ spring cloud虽然都是现有框架或开源项目的集成，但是最重要�
 下一个是开源项目，但是因为春节的关系，要回老家了，所以开源项目不会录制视频了，文章还会继续发，另外大家如果有什么好的建议请私信联系我的微博。最后祝大家猪年发大财！猪事顺心！2019年1月15号于深圳。
 
 # 联系我
-- 隔壁老易的博客:&nbsp;&nbsp;&nbsp;[微博](https://weibo.com/yb2020)&nbsp;&nbsp;&nbsp;&nbsp;[CSDN](https://blog.csdn.net/yb2020
-)&nbsp;&nbsp;&nbsp;&nbsp;[博客园](https://www.cnblogs.com/yb2020
-)
-
-- 隔壁老易的视频：&nbsp;&nbsp;&nbsp;&nbsp;[爱奇艺](http://www.iqiyi.com/u/2015023469
-)
-
+- 隔壁老易的博客: [传送门](http://yi.wuhuhai.com/aboutMe)
 
 
